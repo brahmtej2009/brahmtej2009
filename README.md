@@ -5,7 +5,7 @@ I can <strong>manage Proxmox servers and virtual machines</strong>.<br><br>
 I can <strong>develop Discord bots</strong>, build <strong>websites</strong> with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, and work with <strong>REST APIs</strong>, <strong>Laravel</strong>, and <strong>Nginx</strong>.<br><br>
 I can also work with frameworks like <strong>Next.js</strong>, <strong>React</strong>, and <strong>Laravel</strong> for websites.<br><br>
 I do extensive work on <strong>Windows</strong> and know how to operate <strong>Ubuntu</strong> and <strong>Debian</strong> operating systems.<br><br>
-I am the founder of <strong>Eg Network</strong>, <strong>HostingKarle</strong>, <strong>Soul SMP</strong>, and <strong>GameKarle</strong>.<br><br>
+I am the founder of <strong>Eg Network</strong>, <strong>HostingKarle</strong>, <strong>Soul SMP</strong>, and <strong>GameKarle</strong> and several other projects.<br><br>
 I have worked as a <strong>staff member</strong> in multiple small companies and have experience <strong>collaborating in big teams</strong>.
 
 
