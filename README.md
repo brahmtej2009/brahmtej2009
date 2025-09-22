@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am a Python programmer, a hosting specialist, and a web developer.<br><br>I can run and manage game servers for Minecraft, GTA, FiveM, and RAGE:MP. I can also manage Proxmox servers and virtual machines.<br><br>I can develop Discord bots, build websites with HTML, CSS, and JavaScript, and work with REST APIs, Laravel, and Nginx.<br><br>I do extensive work on Windows, Ubuntu, and Debian operating systems.<br><br>I am the founder of Eg Network, HostingKarle, Soul SMP, and GameKarle.<br><br>I have worked as a staff member in multiple small companies and have experience collaborating in big teams.
+I am a <strong>Python programmer</strong>, a <strong>hosting specialist</strong>, and a <strong>web developer</strong>.<br><br>
+I can <strong>run, manage, and host game servers</strong> for <strong>Minecraft</strong>, <strong>GTA</strong>, <strong>FiveM</strong>, and more games.<br><br>
+I can <strong>manage Proxmox servers and virtual machines</strong>.<br><br>
+I can <strong>develop Discord bots</strong>, build <strong>websites</strong> with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, and work with <strong>REST APIs</strong>, <strong>Laravel</strong>, and <strong>Nginx</strong>.<br><br>
+I can also work with frameworks like <strong>Next.js</strong>, <strong>React</strong>, and <strong>Laravel</strong> for websites.<br><br>
+I do extensive work on <strong>Windows</strong> and know how to operate <strong>Ubuntu</strong> and <strong>Debian</strong> operating systems.<br><br>
+I am the founder of <strong>Eg Network</strong>, <strong>HostingKarle</strong>, <strong>Soul SMP</strong>, and <strong>GameKarle</strong>.<br><br>
+I have worked as a <strong>staff member</strong> in multiple small companies and have experience <strong>collaborating in big teams</strong>.
+
 
 
 ## 🌐 Socials:
