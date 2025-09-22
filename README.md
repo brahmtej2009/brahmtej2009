@@ -1,51 +1,51 @@
 <div align="center">
-<h1>Brahmtej Singh</h1>
-<h3>Tech Entrepreneur | Hosting Specialist | Python Developer</h3>
+  <h1>Hey there 👋, I'm Brahmtej</h1>
+  <p>A builder, problem-solver, and tech enthusiast focused on creating things that work in the real world.</p>
 </div>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyour_username%26label%3DProfile%2520Views%26color%3Dblueviolet%26style%3Dfor-the-badge" alt="GitHub Profile Views"/>
-<a href="mailto:your_email@example.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge"/>
-</a>
-<a href="https://www.google.com/search?q=https://discord.com/users/brahmtejplaysmc" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord-5865F2%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite" alt="Discord Badge"/>
-</a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your_profile" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
-</a>
-</p>
+---
 
-Core Competencies
-<div align="center">
-<p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,html,css,js,mysql,nginx,linux,ubuntu,debian" alt="Development Languages" />
-</p>
-<p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dproxmox,docker,flask,laravel" alt="Platforms & Frameworks" />
-</p>
-</div>
+### About My Work
 
-Achievements & Projects
-HostingKarle: Founder and operator of a successful hosting provider, specializing in reliable and optimized game server solutions.
+I'm a dedicated **Python developer** and **hosting specialist** with a unique background in systems administration and large-scale network management. My experience isn't just in code—it's in the entire stack, from managing bare-metal servers to scaling production environments.
 
-Game Server Management: Managed a diverse portfolio of high-traffic game servers including Minecraft, FiveM, and RAGE:MP.
+* **Founder & Entrepreneur:** I built and ran **HostingKarle**, a successful hosting provider, from the ground up.
+* **Systems & Virtualization:** I have extensive experience with **Proxmox** and **Docker**, and I'm skilled in managing **VPS**, **Ubuntu**, and **Debian** servers.
+* **Game Server Architect:** I have deep knowledge of what it takes to run high-traffic game servers, including **Minecraft**, **GTA**, **FiveM**, and **RAGE:MP**.
+* **Team Collaboration:** I’ve worked on multiple projects as a staff member for various companies and collaborated with big teams to deliver complex systems.
 
-Network Administration: Architected and maintained popular Minecraft networks such as Egnetwork, Soul SMP, and GameKarle.
+---
 
-Professional Experience: Served as a key staff member in multiple small companies, collaborating with large teams to deliver robust projects.
-
-My GitHub Reputation
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour_username%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue" alt="GitHub Stats" width="400"/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour_username%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" alt="Top Languages" width="400"/>
-<br>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dyour_username%26theme%3Ddark%26hide_border%3Dtrue" alt="GitHub Streak" />
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dyour_username%26theme%3Ddark%26no-bg%3Dtrue" alt="GitHub Trophies"/>
-</p>
+### My Toolset
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dyour_username%26theme%3Ddracula" target="_blank">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dyour_username%26theme%3Ddracula" alt="GitHub Activity Graph" />
-</a>
+  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,mysql,nginx,php,laravel,linux,ubuntu,debian,proxmox,docker,raspberrypi,vscode,git,github" alt="My Tech Stack" />
 </div>
+
+---
+
+### Key Projects & Networks
+
+* **HostingKarle:** [Link to your hosting website or a repo]
+* **Minecraft Networks:** Architected and managed large-scale networks like **Egnetwork**, **Soul SMP**, and **GameKarle**.
+* **Discord Bots & APIs:** Developed custom systems for automation and monetization, including reward and verification services.
+* **IoT & Automation:** I love tinkering with **Raspberry Pi** and have experimented with **IoT** and **AI-driven voice assistants**.
+
+---
+
+### My GitHub Reputation
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your_username&theme=dark&no-bg=true" alt="GitHub Trophies"/>
+</p>
+
+<div align="center">
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=your_username&theme=dracula" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=your_username&theme=dracula" alt="GitHub Activity Graph" />
+  </a>
+</div>
+```eof
