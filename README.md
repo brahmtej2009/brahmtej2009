@@ -4,6 +4,7 @@
 </div>
 
 <p align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyour_username%26label%3DProfile%2520Views%26color%3Dblueviolet%26style%3Dfor-the-badge" alt="GitHub Profile Views"/>
 <a href="mailto:your_email@example.com" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge"/>
 </a>
@@ -36,15 +37,15 @@ Professional Experience: Served as a key staff member in multiple small companie
 
 My GitHub Reputation
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dbrahmtej%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue" alt="GitHub Stats" width="400"/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dbrahmtej%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" alt="Top Languages" width="400"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour_username%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue" alt="GitHub Stats" width="400"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour_username%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" alt="Top Languages" width="400"/>
 <br>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dbrahmtej%26theme%3Ddark%26hide_border%3Dtrue" alt="GitHub Streak" />
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dbrahmtej%26theme%3Ddark%26no-bg%3Dtrue" alt="GitHub Trophies"/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dyour_username%26theme%3Ddark%26hide_border%3Dtrue" alt="GitHub Streak" />
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dyour_username%26theme%3Ddark%26no-bg%3Dtrue" alt="GitHub Trophies"/>
 </p>
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dbrahmtej%26theme%3Ddracula" target="_blank">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dbrahmtej%26theme%3Ddracula" alt="GitHub Activity Graph" />
+<a href="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dyour_username%26theme%3Ddracula" target="_blank">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dyour_username%26theme%3Ddracula" alt="GitHub Activity Graph" />
 </a>
 </div>
