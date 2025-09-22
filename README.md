@@ -17,34 +17,29 @@
 </p>
 
 About
-As a dedicated Systems Administrator and Backend Engineer, I specialize in building, managing, and optimizing high-performance computing environments. My expertise spans server virtualization, robust backend development, and creating scalable, secure hosting solutions. I am driven by the challenge of architecting systems that are not only efficient but also reliable and production-ready.
+As a dedicated Systems Administrator and Backend Engineer, I specialize in building, managing, and optimizing high-performance computing environments. My expertise spans server virtualization and robust backend development, driven by the challenge of creating systems that are not only efficient but also reliable and production-ready.
 
-Core Competencies
+Core Competencies & Tools
 <p align="center">
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,flask,js,nodejs,mysql,postgresql,docker,git,linux,ubuntu,nginx,proxmox" alt="Core Competencies Icons" />
 </p>
-<br>
 
-<p>
+Server Management: Proxmox, Pterodactyl, Docker, VPS.
 
-Server Management & Virtualization: Proficient in managing dedicated servers and VPS setups, with extensive experience in Proxmox and Pterodactyl.
+Backend Development: Python, Flask, Node.js, REST APIs.
 
-Backend Systems: Expert in developing and integrating complex backend applications using Python, Flask, and Node.js.
+Gaming & Hosting: Minecraft, RAGE:MP server operations.
 
-Gaming & Hosting: Experienced in operating and maintaining high-traffic game servers, including Minecraft and RAGE:MP.
+Automation: APIs and custom scripting.
 
-Automation & APIs: Skilled in designing and implementing systems that automate workflows, manage data, and integrate with various services.
-</p>
-
-Current Focus
-System Optimization: Continuously improving server efficiency and minimizing overhead to enhance performance.
-
-Architectural Design: Developing robust system architectures for both new and existing services.
-
-Problem Resolution: Specializing in complex issue diagnostics and creative problem-solving in server environments.
-
-GitHub Activity
+My GitHub Activity
 <p align="center">
+<a href="https://www.google.com/search?q=https://github.com/Brahmtej">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DBrahmtej%26theme%3Ddracula" alt="GitHub Activity Graph" width="800" />
+</a>
+<br>
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DBrahmtej%26show_icons%3Dtrue%26theme%3Ddark" alt="GitHub Stats" width="400"/>
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DBrahmtej%26layout%3Dcompact%26theme%3Ddark" alt="Top Languages" width="400"/>
+<br>
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DBrahmtej%26theme%3Djuicyfresh" alt="GitHub Trophies"/>
 </p>
