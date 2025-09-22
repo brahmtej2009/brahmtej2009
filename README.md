@@ -1,11 +1,11 @@
 <div align="center">
 <h1>Brahmtej Singh</h1>
-<h3>Systems Administrator | Backend Engineer</h3>
+<h3>Systems Administrator | Python Programer</h3>
 </div>
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DBrahmtej%26label%3DProfile%2520Views%26color%3Dblueviolet%26style%3Dfor-the-badge" alt="GitHub Profile Views"/>
-<a href="mailto:your_email@example.com" target="_blank">
+<a href="mailto:brahmtejsawhney@gmail.com" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge"/>
 </a>
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/your_profile" target="_blank">
