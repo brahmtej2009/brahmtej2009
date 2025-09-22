@@ -1,51 +1,31 @@
-<div align="center">
-  <h1>Hey there 👋, I'm Brahmtej</h1>
-  <p>A builder, problem-solver, and tech enthusiast focused on creating things that work in the real world.</p>
-</div>
+# 💫 About Me:
+I am a Python programmer, a hosting specialist, and a web developer.<br><br>I can run and manage game servers for Minecraft, GTA, FiveM, and RAGE:MP. I can also manage Proxmox servers and virtual machines.<br><br>I can develop Discord bots, build websites with HTML, CSS, and JavaScript, and work with REST APIs, Laravel, and Nginx.<br><br>I do extensive work on Windows, Ubuntu, and Debian operating systems.<br><br>I am the founder of Eg Network, HostingKarle, Soul SMP, and GameKarle.<br><br>I have worked as a staff member in multiple small companies and have experience collaborating in big teams.
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BRVsACgmRf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brahmtej1010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brahmtejsingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brahmtejsawhney@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=flat&logo=alibabacloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=brahmtej2009&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=brahmtej2009&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brahmtej2009&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=brahmtej2009&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=brahmtej2009&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=brahmtej2009&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### About My Work
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/brahmtej) 
 
-I'm a dedicated **Python developer** and **hosting specialist** with a unique background in systems administration and large-scale network management. My experience isn't just in code—it's in the entire stack, from managing bare-metal servers to scaling production environments.
-
-* **Founder & Entrepreneur:** I built and ran **HostingKarle**, a successful hosting provider, from the ground up.
-* **Systems & Virtualization:** I have extensive experience with **Proxmox** and **Docker**, and I'm skilled in managing **VPS**, **Ubuntu**, and **Debian** servers.
-* **Game Server Architect:** I have deep knowledge of what it takes to run high-traffic game servers, including **Minecraft**, **GTA**, **FiveM**, and **RAGE:MP**.
-* **Team Collaboration:** I’ve worked on multiple projects as a staff member for various companies and collaborated with big teams to deliver complex systems.
-
----
-
-### My Toolset
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,mysql,nginx,php,laravel,linux,ubuntu,debian,proxmox,docker,raspberrypi,vscode,git,github" alt="My Tech Stack" />
-</div>
-
----
-
-### Key Projects & Networks
-
-* **HostingKarle:** [Link to your hosting website or a repo]
-* **Minecraft Networks:** Architected and managed large-scale networks like **Egnetwork**, **Soul SMP**, and **GameKarle**.
-* **Discord Bots & APIs:** Developed custom systems for automation and monetization, including reward and verification services.
-* **IoT & Automation:** I love tinkering with **Raspberry Pi** and have experimented with **IoT** and **AI-driven voice assistants**.
-
----
-
-### My GitHub Reputation
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=your_username&theme=dark&no-bg=true" alt="GitHub Trophies"/>
-</p>
-
-<div align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=your_username&theme=dracula" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=your_username&theme=dracula" alt="GitHub Activity Graph" />
-  </a>
-</div>
-```eof
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
