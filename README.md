@@ -20,20 +20,8 @@ I have worked as a <strong>staff member</strong> in multiple small companies and
 ![](https://nirzak-streak-stats.vercel.app/?user=brahmtej2009&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brahmtej2009&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=brahmtej2009&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=brahmtej2009&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=brahmtej2009&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## My Coding Time 
-https://github-readme-stats.hackclub.dev/api/wakatime?username=29328&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+![Coding Time Tracker](https://github-readme-stats.hackclub.dev/api/wakatime?username=29328&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
